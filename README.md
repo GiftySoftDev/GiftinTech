@@ -1,4 +1,4 @@
-- Hello! 👋 I’m Gifty 🦋🦋.
+- Hello! 👋 I’m Gifty 🦋🦋 a Frontend Dev.
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on team projects
