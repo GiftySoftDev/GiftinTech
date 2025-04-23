@@ -1,6 +1,6 @@
 - Hello! 👋 I’m Gifty 🦋🦋 a Frontend Dev.
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me egbonyigiftvicky@gmail.com
 - 😄 Pronouns: She/Her
