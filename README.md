@@ -20,10 +20,8 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 ---
 ### 🏅 Badges & Recognitions
 
-<p>
-  <img src="https://developers.google.com/profile/badges/developer" alt="Google Developer Badge" height="45"/>
-  <img src="https://www.womentechmakers.com/static/badges/wtm_badge.svg" alt="Women Techmakers Badge" height="45"/>
-</p>
+- [Google Developer Badge](https://developers.google.com/profile/badges/profile/created-profile)
+- [Women Techmakers Badge](https://developers.google.com/profile/badges/community/wtm/member)
 
 ---
 
