@@ -46,12 +46,14 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 </p>
 
 ---
-### 🤖 AI & Coding Assistants
+### 🤖 AI & Coding Tools
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6b4eae?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
 
 ---
 
