@@ -42,6 +42,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
 ---
