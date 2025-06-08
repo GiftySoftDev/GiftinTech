@@ -58,6 +58,11 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 ---
 
 ### 🚀 Featured Projects
+- [CyberSafe_Therapy](https://github.com/GiftinTech/CyberSafe_Therapy)  
+  A modern web platform for secure mental health therapy sessions.  
+  [Live Demo](https://ai-cybersafe-therapy.netlify.app/)  
+  **🔒 Private Repo:** DM me for access!
+
 
 - [Loan Calculator](https://github.com/GiftinTech/Loan-Calculator)  
   A user-friendly web app to quickly calculate loan repayments and interest.
