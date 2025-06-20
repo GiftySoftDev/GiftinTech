@@ -1,0 +1,22 @@
+name: Update README with WakaTime stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight (UTC)
+  workflow_dispatch: # Allows manual triggering
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Optional: Add other configurations here, like:
+          # SHOW_MONTHLY: true
+          # SHOW_TOTAL: true
+          # SHOW_PROFILE_VIEWS: true
+      - uses: stefanzp/github-profile-readme-generator@v1.0.0
+        with:
+          template_path: .github/templates/README.md.j2
+          output_path: README.md
