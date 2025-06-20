@@ -126,6 +126,14 @@ HTML         28 mins         ▒░░░░░░░░░░░░░░░░
 ![WakaTime Language Pie Chart](https://wakatime.com/share/@4d5c9c83-fe2e-4da0-89a0-3ae26f95140c/6e5e65e0-d072-4fd3-89d2-3e6ae3dc2db8.svg")
 
 ---
+### ✍️ My Digital Journal: Writings & Demos
+You can find my writings and interactive code demos across these platforms:
+
+* **Medium:** My thoughts on broader tech topics and insights. [Read my articles here](https://medium.com/@giftegbonyi)
+* **DEV.to:** Beginner-friendly tutorials and in-depth guides. [Explore my tutorials here](https://dev.to/giftintech)
+* **CodePen:** Interactive front-end demos and code experiments. [Check out my pens here](https://codepen.io/GiftinTech)
+
+---
 
 ### 💬 Let’s Connect!
 
