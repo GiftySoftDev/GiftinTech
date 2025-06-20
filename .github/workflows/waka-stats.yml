@@ -1,0 +1,30 @@
+name: WakaTime Readme Stats
+
+on:
+  workflow_dispatch: # Allows you to run the workflow manually
+  schedule:
+    # Runs at 12 AM UTC every day. Adjust cron expression as needed.
+    # Check crontab.guru for help with cron expressions: https://crontab.guru/
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Checks out your repository
+
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master # Or anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Optional flags to customize the output (uncomment and adjust as needed)
+          # SHOW_OS: "False"
+          # SHOW_PROJECTS: "False"
+          # SHOW_TOTAL_CODE_TIME: "True"
+          # SHOW_LANGUAGE_PER_MONTH: "True"
+          # SHOW_COMMIT: "True"
+          # SHOW_LINES_OF_CODE: "True"
+          # SHOW_PROFILE_VIEWS: "False"
+          # SECTION_NAME: "waka" # Make sure this matches the comments in your README.md
