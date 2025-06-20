@@ -111,6 +111,15 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 
 ### 📊 My WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   21 hrs 36 mins  █████████████████████░░░░   83.83 %
+Python       1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+CSS          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+HTML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
