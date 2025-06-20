@@ -109,7 +109,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 
 ---
 
-### 📊 My WakaTime Stats
+### 📊 My Coding Activity (WakaTime Stats)
 <!--START_SECTION:waka-->
 
 ```txt
