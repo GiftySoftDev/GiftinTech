@@ -141,8 +141,8 @@ You can find my writings and interactive code demos across these platforms:
 ---
 
 ### 👩‍🎓🎓 Licences & Certifications
-![UN Volunteer](![17514992449597906371528586724250](https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7)
-)
+<img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer"/>
+
 
 ### 💬 Let’s Connect!
 
