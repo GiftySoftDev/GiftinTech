@@ -140,6 +140,10 @@ You can find my writings and interactive code demos across these platforms:
 
 ---
 
+### 👩‍🎓🎓 Licences & Certifications
+![UN Volunteer](![17514992449597906371528586724250](https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7)
+)
+
 ### 💬 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giftintech/)
