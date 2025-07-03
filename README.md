@@ -151,13 +151,14 @@ You can find my writings and interactive code demos across these platforms:
 
 ![ALX Professional Foundations Certificate](https://github.com/user-attachments/assets/fce27d69-8ec4-43f6-af6b-095bba71382b)
 
+![UN Volunteer Certificate](https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7)
 
-<img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer"/>
 
 ![University of Helsinki Elements of AI Certificate](https://github.com/user-attachments/assets/36f0c12c-984e-4d02-af2c-7ce465d1b0a6)
 
 
-![Scrimba JavaScript Tutorial](https://us.docworkspace.com/d/sIIa9prA5sI-XwwY?sa=601.1074)
+![Scrimba JavaScript Tutorial](https://github.com/user-attachments/assets/52879375-8b1e-4c64-a29b-1a41e346d47f)
+
 
 ![freeCodeCamp Responsive Web Design Certification](https://github.com/user-attachments/assets/2be79583-def1-4da8-aabc-afc4bf586d41)
 
