@@ -71,12 +71,12 @@ PS. _To better understand how computers process information and learn computatio
 ---
 
 ### 🚀 Featured Projects
-- [Next Generation AI Portfolio](https://ai-portfolio-project.netlify.app/)  
+- [Next Generation AI Portfolio README](https://github.com/GiftinTech/Next-Generation-AI-Portfolio-README/)  
   A next generation AI portfolio. Stand out and level up your portfolio with futuristic themes!  
   [Live Demo](https://ai-portfolio-project.netlify.app/)  
   **🔒 Private Repo:** DM me for access!
   
-- [CyberSafe_Therapy](https://github.com/GiftinTech/CyberSafe_Therapy-README)  
+- [CyberSafe_Therapy README](https://github.com/GiftinTech/CyberSafe_Therapy-README/)  
   A modern web platform for secure mental health therapy sessions.  
   [Live Demo](https://ai-cybersafe-therapy.netlify.app/)  
   **🔒 Private Repo:** DM me for access!
