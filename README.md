@@ -171,6 +171,15 @@ You can find my writings and interactive code demos across these platforms:
 </tr>
 </table>
 
+---
+
+## 🌟 Recommendations
+
+> “placeholder ”
+> — **Jane Doe**, Senior Software Engineer
+
+---
+
 ### 💬 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giftintech/)
