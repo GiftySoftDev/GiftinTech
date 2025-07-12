@@ -5,7 +5,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 Currently, I just built and shipped my first ReactJS project, an AI-powered portfolio. I'm also gearing up for full-stack development—enrolled in Jonas Schmedtmann's NodeJS bootcamp on Udemy—it's an exciting journey and I'm loving every bit of it!
 
 <p align="center">
-  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="300"/>
+  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="350"/>
 </p>
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
@@ -53,8 +53,10 @@ PS. _To better understand how computers process information and learn computatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" alt="Supabase" width="40" height="40"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+
 </p>
 
 ---
