@@ -17,8 +17,8 @@ PS. _To better understand how computers process information and learn computatio
 ### 🌟 About Me
 
 - 💡 I love building with **AI**
-- 🔭 Currently exploring **ReactJS** and **AI/LLMs Integration and models** to projects and code.
-- I'm also a student of **Backend Development** at alx_africa and I'm taking the CS50 Cybersecurity course offered by Harvard University.
+- 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
+- I'm also a student of **Backend Development** at alx_africa and I'm taking the CS50x Introduction to Computer Science course by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development**
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
