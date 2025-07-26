@@ -23,7 +23,7 @@ PS. _To better understand how computers process information and learn computatio
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
 - 🌸 Pronouns: **She/Her**
-- ⚡ When I’m not coding, I’m probably volunteering, swimming, spending time with loved ones, binge-watching **Kdramas** 🫰, or getting lost in animations 🎨
+- ⚡ When I’m not coding, I’m probably volunteering, swimming, spending time with loved ones, binge-watching **Anime** || **Kdramas** 🫰, || lost in animations 🎨
 - 💡 Favourite quote:  
   > _“A user interface is like a joke; if you have to explain it, it's not that good.”_
 
