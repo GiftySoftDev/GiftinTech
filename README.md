@@ -183,11 +183,11 @@ PS. _To better understand how computers process information and learn computatio
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.44 %
-JavaScript   6 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-TypeScript   4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-JSON         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-HTML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Python       8 hrs 42 mins   ███████████░░░░░░░░░░░░░░   44.18 %
+TypeScript   4 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+JavaScript   3 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+JSON         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+HTML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
