@@ -23,8 +23,10 @@ PS. _To better understand how computers process information and learn computatio
 - I'm also a student of **Backend Development** at alx_africa and I'm taking the CS50x Introduction to Computer Science course by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development**
 - Life lately (click thumbnail to watch video):
+  <br>
+_Ps. you'll be redirected to Loom if you click on the thumbnail😊_
 <p align="center">
-  <a href="https://github.com/GiftinTech/images/raw/refs/heads/main/videos/InShot_20250827_134945827.mp4">
+  <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3">
     <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800">
   </a>
 </p>
