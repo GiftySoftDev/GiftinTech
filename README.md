@@ -6,7 +6,7 @@ Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant 
 
 I also just completed Jonas Schmedtmann's NodeJS bootcamp on Udemy—it was an exciting, knowledge-packed journey and I loved every bit of it!
 
-<p align="center" target="_blank">
+<p align="center">
   <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="500"/>
 </p>
 
@@ -26,7 +26,7 @@ PS. _To better understand how computers process information and learn computatio
   <br>
 _Ps. you'll be redirected to Loom if you click on the thumbnail😊_
 <p align="center">
-  <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3">
+  <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3" target="_blank" rel="noreferrer">
     <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800">
   </a>
 </p>
