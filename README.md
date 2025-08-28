@@ -6,7 +6,7 @@ Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant 
 
 I also just completed Jonas Schmedtmann's NodeJS bootcamp on Udemy—it was an exciting, knowledge-packed journey and I loved every bit of it!
 
-<p align="center">
+<p align="center" target="_blank">
   <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="500"/>
 </p>
 
