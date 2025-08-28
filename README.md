@@ -22,6 +22,12 @@ PS. _To better understand how computers process information and learn computatio
 - 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
 - I'm also a student of **Backend Development** at alx_africa and I'm taking the CS50x Introduction to Computer Science course by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development**
+- Life lately (click thumbnail to watch video):
+<p align="center">
+  <a href="https://github.com/GiftinTech/images/raw/refs/heads/main/videos/InShot_20250827_134945827.mp4">
+    <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800">
+  </a>
+</p>
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
 - 🌸 Pronouns: **She/Her**
