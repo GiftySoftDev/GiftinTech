@@ -144,6 +144,14 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
 ---
 
 ### 🚀 Featured Projects
+- [Eduwaka AI Assitant - Guidance Counsellor for JAMBITES](https://github.com/GiftinTech/Eduwaka_AI_Assistant)  
+  EduWaka is an AI-powered web platform that helps Nigerian students, seeking admission into higher institution, simplify their   university admission journey. It provides tools to search institutions, explore courses, check eligibility, estimate fees and AI chatbot -all in one place. 
+  [Live Demo](https://eduwaka-ai-assistant.onrender.com/)  
+  
+- [buyAgain e-commerce](https://github.com/GiftinTech/buyAgain_e-commerce)  
+   buyAgain is full-stack e-commerce site with a simple admin dashboard built with MERN stack, TypeScript, Tailwindcss and Vite.  
+  [Live Demo](https://buyagain-e-commerce.onrender.com/)
+  
 - [Next Generation AI Portfolio README](https://github.com/GiftinTech/Next-Generation-AI-Portfolio-README/)  
   A next generation AI portfolio. Stand out and level up your portfolio with futuristic themes!  
   [Live Demo](https://ai-portfolio-project.netlify.app/)  
