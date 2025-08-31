@@ -145,7 +145,7 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
 
 ### 🚀 Featured Projects
 - [Eduwaka AI Assitant - Guidance Counsellor for JAMBITES](https://github.com/GiftinTech/Eduwaka_AI_Assistant)  
-  EduWaka is an AI-powered web platform that helps Nigerian students, seeking admission into higher institution, simplify their   university admission journey. It provides tools to search institutions, explore courses, check eligibility, estimate fees and AI chatbot -all in one place. 
+  EduWaka is an AI-powered web platform that helps Nigerian students, seeking admission into higher institution, simplify their   university admission journey. It provides tools to search institutions, explore courses, check eligibility, estimate fees and AI chatbot, all in one place. <br>
   [Live Demo](https://eduwaka-ai-assistant.onrender.com/)  
   
 - [buyAgain e-commerce](https://github.com/GiftinTech/buyAgain_e-commerce)  
