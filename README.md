@@ -237,7 +237,7 @@ You can find my writings and interactive code demos across these platforms:
 ### 👩‍🎓🎓 Licences & Certifications
 <table align="center">
 <tr>
-  <td><img width="1280" height="720" alt="ALX Backend Certification" src="https://github.com/user-attachments/assets/6f8e0cef-3969-426e-9ca6-e1441151db16" width="400" height="400" />
+  <td><img alt="ALX Backend Certification" src="https://github.com/user-attachments/assets/6f8e0cef-3969-426e-9ca6-e1441151db16" width="400" height="400" />
 </td>
   <td><img src="https://github.com/GiftinTech/images/blob/main/previews/Udemy%20Node%20Cert.jpg?raw=true" alt="Udemy Certificate for Jonas Schmedtmann Node.js Bootcamp" width="400" height="400" /></td>
   <td><img src="https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406" alt="Women Techsters Software Development Certification" width="400" height="400"/></td>
