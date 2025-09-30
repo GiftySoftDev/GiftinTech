@@ -21,7 +21,7 @@ PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's In
 - 💡 I love building with **AI**
 - 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
 - I just completed the **Backend Development** 4-months program at alx_africa & the CS50x Introduction to Computer Science course by Harvard University.
-- 🛠 I'm Keen on all things **Full-stack Development**
+- 🛠 I'm Keen on all things **Full-stack Development** and **AI/MI** Integration
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
 - 🌸 Pronouns: **She/Her**
