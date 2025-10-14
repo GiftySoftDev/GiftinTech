@@ -319,13 +319,27 @@ You can find my writings and interactive code demos across these platforms:
 <blockquote>
 <details>
   <summary>
+    “I've had the pleasure of working with Gift, and I can confidently say she is one of the most dedicated backend developers I've met.
+  </summary>
+  <p>
+Her ability to break down complex problems and design scalable, efficient solutions is truly impressive. Gift writes clean, maintainable code and consistently delivers beyond expectations-always on time.
+What sets her apart is not just her technical skill but her collaborative spirit. She's a great communicator, proactive with suggestions, and always willing to support teammates. Whether it's designing APls, working with databases, or optimizing server-side logic, Gift handles it all with a calm confidence and professional finesse.
+Any team would be lucky to have her. I wholeheartedly recommend Gift for any backend development role or project!"
+  </p>
+</details>
+   — <b>Gloria Ozioma, Backend Developer</b>
+</blockquote>
+
+<blockquote>
+<details>
+  <summary>
     “In school, Gift was a well-balanced and intelligent student. Always very kind, gentle and peaceful
   </summary>
   <p>
     In the days after school, I've seen her work very hard and diligently on building herself and career, taking on a number of tech courses and carrying out amazing projects with impressive speed, and dare I say, ease. She tackles difficulties lightheartedly and bravely, and is always super optimistic. Anyone looking to work with Gift, would be greatly pleased to realise that they would have made one of the best decisions of their lives, by choosing her."
   </p>
 </details>
-   — <b>Joy Anosike</b>
+   — <b>Joy Anosike, Social Media Designer & Video Editor</b>
 </blockquote>
 
 ---
