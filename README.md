@@ -214,7 +214,7 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 20 hrs 8 mins   ████████████████████░░░░░   79.85 %
+TypeScript                 20 hrs 8 mins   ████████████████████░░░░░   79.84 %
 Ruby                       1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 Bash                       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 CSS                        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
