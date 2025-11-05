@@ -214,11 +214,11 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 7 mins   ███████████████▒░░░░░░░░░   60.68 %
-Ruby         9 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.62 %
-Bash         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-YAML         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Python       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+TypeScript   18 hrs 36 mins  ███████████████▓░░░░░░░░░   63.14 %
+Ruby         8 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.89 %
+Bash         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Python       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+ERB          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
