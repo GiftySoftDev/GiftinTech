@@ -11,7 +11,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a full-stack devel
 
 Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant that helps Nigerian students seeking admission into a Nigerian university simplify their admission journey. I'm using Python and Django for the backend and React + TypeScript + TailwindCSS for the frontend. 
 
-I also just completed Jonas Schmedtmann's NodeJS bootcamp on Udemy—it was an exciting, knowledge-packed journey and I loved every bit of it!
+I also just completed CS50x, it was an exciting, knowledge-packed journey and I loved every bit of it!
 
 <p align="center">
   <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="400" loading="lazy" />
@@ -35,24 +35,30 @@ PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's Ar
 - ⚡ When I’m not coding, I’m probably volunteering, swimming, spending time with loved ones, binge-watching **Anime** || **Kdramas** 🫰, || lost in animations 🎨
 - 💡 Favourite quote:  
   > _“A user interface is like a joke; if you have to explain it, it's not that good.”_
-- Life lately 🦋 _Collaborating with [Hamzat](https://github.com/Blackburn0/) to build [Swapo](https://github.com/Blackburn0/Swapo/) for our CS50x Introduction to Computer Science final project_
-- Built two full-stack projects last month with different languages (click thumbnail to watch video):
+- Life lately 🦋 _Finished Collaborating with [Hamzat](https://github.com/Blackburn0/) to build [Swapo](https://github.com/Blackburn0/Swapo/) for our CS50x Introduction to Computer Science final project_
+- Built three full-stack projects with different languages (click thumbnail to watch video):
   <br>
-_Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
+_Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊_
 <table align="center">
   <tr>  
+  <th>Python + Django</th>
   <th>Python + Django</th>
   <th>Node + Express</th>
   </tr>
   <tr>   
     <td> 
       <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800" loading="lazy" >
+        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the Loom video" width="800" loading="lazy" >
+      </a>
+    </td>
+    <td> 
+      <a href="https://youtu.be/0o8dSW-YCPY" target="_blank" rel="noreferrer">
+        <img src="https://github.com/GiftinTech/images/blob/main/previews/cs50x-yt.png?raw=true" alt="Watch the YouTube video" width="800" loading="lazy" >
       </a>
     </td>
     <td>
       <a href="https://www.loom.com/share/58a0da4a63d84b05b4e6e0a0d25a6200" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250831_133356.png?raw=true" alt="Watch the video" width="800" loading="lazy" >
+        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250831_133356.png?raw=true" alt="Watch the Loom video" width="800" loading="lazy" >
       </a>
     </td>
   </tr>
@@ -255,23 +261,25 @@ You can find my writings and interactive code demos across these platforms:
 ### 👩‍🎓🎓 Licences & Certifications
 <table align="center">
 <tr>
-  <td><img alt="ALX Backend Certification" src="https://github.com/user-attachments/assets/6f8e0cef-3969-426e-9ca6-e1441151db16" width="400" height="400" />
+    <td><img alt="CS50x Introduction to Computer Science" src="https://github.com/GiftinTech/images/blob/main/previews/CS50x-certificate.png?raw=true" alt="CS50x Certificate" width="400" height="400" />
+</td>
+  <td><img alt="ALX Backend Certification" src="https://github.com/user-attachments/assets/6f8e0cef-3969-426e-9ca6-e1441151db16" alt="ALX Backend Certificate" width="400" height="400" />
 </td>
   <td><img src="https://github.com/GiftinTech/images/blob/main/previews/Udemy%20Node%20Cert.jpg?raw=true" alt="Udemy Certificate for Jonas Schmedtmann Node.js Bootcamp" width="400" height="400" /></td>
-  <td><img src="https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406" alt="Women Techsters Software Development Certification" width="400" height="400"/></td>
- 
   </tr>
   
   <tr>
+     <td><img src="https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406" alt="Women Techsters Software Development Certification" width="400" height="400"/></td>
      <td><img src="https://github.com/user-attachments/assets/dfdc7d3b-1164-45f6-a41c-132012839a7a" alt="Harvard CS50 Introduction to Cybersecurity Certificate" width="400" height="400"/></td> 
      <td><img src="https://github.com/user-attachments/assets/fce27d69-8ec4-43f6-af6b-095bba71382b" alt="ALX Professional Foundations Certificate" width="400" height="400"/></td>
-     <td><img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer Certificate" width="400" height="400"/></td>
-    
   </tr>
 
 <tr>
+    <td><img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer Certificate" width="400" height="400"/></td>
   <td><img src="https://github.com/user-attachments/assets/36f0c12c-984e-4d02-af2c-7ce465d1b0a6" alt="University of Helsinki Elements of AI Certificate" width="400" height="400"/></td>
   <td><img src="https://github.com/user-attachments/assets/52879375-8b1e-4c64-a29b-1a41e346d47f" alt="Scrimba JavaScript Tutorial" width="400" height="400"/></td>
+</tr>
+<tr>
   <td><img src="https://github.com/user-attachments/assets/2be79583-def1-4da8-aabc-afc4bf586d41" alt="freeCodeCamp Responsive Web Design Certification" width="400" height="400"/></td>
 </tr>
 </table>
