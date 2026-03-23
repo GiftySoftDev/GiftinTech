@@ -241,8 +241,8 @@ PHP          30 mins               █░░░░░░░░░░░░░░
 You can find my writings and interactive code demos across these platforms:
 
 * **Medium:** My thoughts on broader tech topics and insights. [Read my articles here](https://medium.com/@giftegbonyi)
-* **DEV.to:** Beginner-friendly tutorials and in-depth guides. [Explore my tutorials here](https://dev.to/giftintech)
-* **CodePen:** Interactive front-end demos and code experiments. [Check out my pens here](https://codepen.io/GiftinTech)
+* **DEV.to:** Beginner-friendly tutorials and in-depth guides. [Explore my tutorials here](https://dev.to/giftysoftdev)
+* **CodePen:** Interactive front-end demos and code experiments. [Check out my pens here](https://codepen.io/giftysoftdev)
 
 ---
 
