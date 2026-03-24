@@ -384,17 +384,17 @@ Any team would be lucky to have her. I wholeheartedly recommend Gift for any bac
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiftinTech&theme=radical" alt="Repos per Language" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiftinTech&theme=radical" alt="Most Used Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiftySoftDev&theme=radical" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiftySoftDev&theme=radical" alt="Most Used Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiftinTech&theme=radical" alt="GitHub Activity"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiftySoftDev&theme=radical" alt="GitHub Activity"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiftinTech&theme=radical" alt="Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GiftinTech&theme=radical" alt="Commits" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiftySoftDev&theme=radical" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GiftySoftDev&theme=radical" alt="Commits" height="180"/>
 </p>
 
 <!-- <p align="center">
