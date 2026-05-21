@@ -9,9 +9,9 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a full-stack devel
 
 [Call me](https://calendly.com/egbonyigiftvicky), I'm available right now.
 
-Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant that helps Nigerian students seeking admission into a Nigerian university simplify their admission journey. I'm using Python and Django for the backend and React + TypeScript + TailwindCSS for the frontend. 
+Currently, building **[Eduwaka](https://eduwaka.onrender.com/)**, a **Full-Stack project**. It's an AI Assistant that helps Nigerian students seeking admission into a Nigerian university simplify their admission journey. I'm using Python and Django for the backend and React + TypeScript + TailwindCSS for the frontend. 
 
-I also just completed CS50x, it was an exciting, knowledge-packed journey and I loved every bit of it!
+I also just completed React Native (Expo) course, it was an exciting, knowledge-packed journey and I loved every bit of it!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GiftySoftDev/images/refs/heads/main/previews/IMG_3024.jpeg" alt="Professional Picture of me" width="900" height="400" loading="lazy" />
