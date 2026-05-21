@@ -177,7 +177,7 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 ---
 
 ### 🚀 Featured Projects
-- [PortfolioDeck]()
+- [PortfolioDeck](https://github.com/GiftySoftDev/PortfolioDeck-README)
   PortfolioDeck is a SaaS tool for developers. Connect your GitHub repo, manage your projects in a dashboard, and every save automatically commits one or more up-to-date JSON files to your repo — so your live portfolio always reflects your current work.
     [Live Demo](https://portfoliodeck.onrender.com/)
   
