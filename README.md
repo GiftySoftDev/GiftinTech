@@ -177,6 +177,10 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 ---
 
 ### 🚀 Featured Projects
+- [PortfolioDeck]()
+  PortfolioDeck is a SaaS tool for developers. Connect your GitHub repo, manage your projects in a dashboard, and every save automatically commits one or more up-to-date JSON files to your repo — so your live portfolio always reflects your current work.
+    [Live Demo](https://portfoliodeck.onrender.com/)
+  
 - [Swapo](https://github.com/Swapo-Org/Swapo)
   Swapo is a modern progressive web app skill-swapping platform that connects people who want to exchange skills and learn from each other. <br>
   [Live Demo](https://swapo-skills.onrender.com/) - Opens only on mobile/tablet device
